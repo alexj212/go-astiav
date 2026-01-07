@@ -3,7 +3,7 @@ module github.com/alexj212/go-astiav
 go 1.21
 
 require (
-	github.com/asticode/go-astikit v0.42.0
+	github.com/asticode/go-astikit v0.57.1
 	github.com/stretchr/testify v1.7.0
 )
 
