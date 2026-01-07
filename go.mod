@@ -1,4 +1,4 @@
-module github.com/alexj212/go-astiav
+module github.com/alexj212/go-astiav/v8
 
 go 1.21
 
